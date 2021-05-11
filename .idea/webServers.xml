@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="aca3c4ff-e859-4d5d-bfcc-c9b0232702d2" name="super-sh4ng-aliyun-ECS" url="http://8.140.119.212">
+        <fileTransfer rootFolder="/home/super/OOP_homeworks" accessType="SFTP" host="8.140.119.212" port="22" sshConfigId="fb3f185b-c1b5-4632-87b1-6fd90933471b" sshConfig="super@8.140.119.212:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
