@@ -1,2 +1,23 @@
 # OOP_Homeworks
-My OOP homeworks
+My OOP homeworks. The detail notes are as follows:
+
+1. [h01](https://blog.superpung.xyz/oop-h01/)
+2. [h02](https://blog.superpung.xyz/oop-h02/)
+3. [h03](https://blog.superpung.xyz/oop-h03/)
+4. [h04](https://blog.superpung.xyz/oop-h04/)
+5. [h05](https://blog.superpung.xyz/oop-h05/)
+6. [h06](https://blog.superpung.xyz/oop-h06/)
+7. [h07](https://blog.superpung.xyz/oop-h07/)
+8. [h08](https://blog.superpung.xyz/oop-h08/)
+9. [h09](https://blog.superpung.xyz/oop-h09/)
+10. [h10](https://blog.superpung.xyz/oop-h10/)
+11. [h11](https://blog.superpung.xyz/oop-h11/)
+12. [h12](https://blog.superpung.xyz/oop-h12/)
+13. [h13](https://blog.superpung.xyz/oop-h13/)
+14. [h14](https://blog.superpung.xyz/oop-h14/)
+15. [h15](https://blog.superpung.xyz/oop-h15/)
+16. [h16](https://blog.superpung.xyz/oop-h16/)
+17. [h17](https://blog.superpung.xyz/oop-h17/)
+18. [h18](https://blog.superpung.xyz/oop-h18/)
+19. [h19](https://blog.superpung.xyz/oop-h19/)
+20. [h20](https://blog.superpung.xyz/oop-h20/)
