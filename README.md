@@ -1,5 +1,5 @@
-# OOP_Homeworks
-My OOP homeworks. The detail notes are as follows:
+# OOP_Homework
+My OOP homework. The detail notes are as follows:
 
 1. [h01](https://blog.superpung.cn/oop-h01/)
 2. [h02](https://blog.superpung.cn/oop-h02/)
